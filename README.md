@@ -1,0 +1,4 @@
+# Web Audio Made Easy with Howler.js
+As web and native apps continue to converge, audio plays an ever-increasing role in elevating the user experience beyond simple static documents. However, even simple audio playback can get complicated when dealing with different browsers, devices and environments. In this talk, we’ll take a deep dive into using the howler.js audio library to enhance your web, desktop and mobile applications. Through a live coding demo, we’ll start with basic playback and work our way through audio sprites, live streaming, 3D spatial audio and more. Walk away with a better understanding of various use-cases for audio on the web and the simple tools you can use to enable them in your own projects.
+
+* **View Slides:** [Slideshare](https://www.slideshare.net/goldfire33/web-audio-made-easy-with-howlerjs)

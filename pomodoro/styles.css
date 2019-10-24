@@ -1,0 +1,53 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  background: #df0d00;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+button {
+  border-radius: 5px;
+  font-family: -apple-system, BlinkMacSystemFont;
+  color: #df0d00;
+  background: #fff;
+  font-size: 34px;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  padding: 15px 30px;
+  transition: background 0.3s ease-in-out;
+  font-weight: bold;
+}
+button:hover {
+  cursor: pointer;
+  background: #eaeaea;
+}
+.start-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.countdown-container {
+  width: 100%;
+  height: 100%;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-weight: 300;
+}
+.countdown {
+  transition: all 0.3s ease-in-out;
+  font-size: 100%;
+}
+.speed {
+  position: absolute;
+  bottom: 10px;
+  font-size: 24px;
+  padding: 10px 20px;
+}
