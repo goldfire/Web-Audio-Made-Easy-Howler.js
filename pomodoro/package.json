@@ -30,7 +30,7 @@
     "howler": "2.1.2"
   },
   "devDependencies": {
-    "electron": "6.0.1",
+    "electron": "9.1.0",
     "electron-builder": "21.2.0",
     "rimraf": "^2.6.3"
   }
